@@ -43,7 +43,7 @@ To run this project locally on your system, follow these steps:
 5. Start the development server:
 `npm run dev` or `yarn dev`
 
-6. Open your browser and navigate to `http://localhost:3000` to view the app.
+6. Open your browser and navigate to `http://localhost:5173` to view the app.
 
 ## Usage
 - Enter a search term in the input field and press Enter or click the search button.
