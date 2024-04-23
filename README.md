@@ -15,6 +15,15 @@ SearchPlaces is a web application that allows users to search for cities in vari
 - RapidAPI (for city data)
 - CSS (for styling)
 
+## Screenshots
+
+![Screenshot_50](https://github.com/TusharTechs/search-places/assets/56952465/589004b0-c9d7-4a88-9213-c181499e40b4)
+
+![Screenshot_51](https://github.com/TusharTechs/search-places/assets/56952465/09e64f39-68e5-4e26-be62-793608de15a7)
+
+![Screenshot_52](https://github.com/TusharTechs/search-places/assets/56952465/969c52af-df6c-4a9e-b2fc-d44781c72428)
+
+
 ## How to Run Locally
 
 To run this project locally on your system, follow these steps:
@@ -26,17 +35,13 @@ To run this project locally on your system, follow these steps:
 `cd search-places`
 
 3. Install dependencies using npm or yarn:
-`npm install`
-# or
-`yarn install`
+`npm install` or `yarn install`
 
 4. Create a .env file in the project root and add your RapidAPI key:
 `VITE_APP_API_KEY=your-rapidapi-key`
 
 5. Start the development server:
-`npm run dev`
-# or
-`yarn dev`
+`npm run dev` or `yarn dev`
 
 6. Open your browser and navigate to `http://localhost:3000` to view the app.
 
